@@ -1,0 +1,333 @@
+record_id,first_name,last_name,email,phone,source,signup_date
+1,Liam,Patel,  LIAM.PATEL0@EXAMPLE.COM ,2175550000,store,2025-03-08
+2,Liam,Patel,  LIAM.PATEL0@EXAMPLE.COM ,2175550000,store,2024-07-22
+3,Liam,Nguyen,liam.nguyen1@example.com,2175550001,store,2024-08-21
+4,Liam,Nguyen,liam.nguyen1@example.com,(217) 555-0001,web,2025-01-24
+5,Mia,Lee,Mia.lee2@example.com,(217) 555-0002,store,2024-11-28
+6,Mia,Lee,mia.lee2@example.com,(217) 555-0002,web,2024-11-19
+7,Mia,Lee,  mia.lee2@example.com ,217-555-0002,web,2025-05-26
+8,Liam,Garcia,liam.garcia3@example.com,2175550003,mobile,2025-01-25
+9,Leo,Smith,LEO.SMITH4@EXAMPLE.COM,2175550004,store,2024-11-27
+10,Zoe,Brown,zoe.brown5@example.com,2175550005,web,2024-08-18
+11,Zoe,Brown,ZOE.BROWN5@EXAMPLE.COM,(217) 555-0005,web,2024-03-13
+12,Noah,Kim,  noah.kim6@example.com ,(217) 555-0006,mobile,2025-05-12
+13,Priya,Reddy,priya.reddy7@example.com,2175550007,store,2024-04-10
+14,Priya,Reddy,Priya.reddy7@example.com,2175550007,web,2024-07-15
+15,Priya,Reddy,PRIYA.REDDY7@EXAMPLE.COM,217-555-0007,mobile,2024-09-12
+16,Liam,Patel,liam.patel8@example.com,(217) 555-0008,web,2025-02-20
+17,Ava,Lee,Ava.lee9@example.com,2175550009,store,2024-03-10
+18,Leo,Reddy,  Leo.reddy10@example.com ,+1 217 555 0010,web,2024-11-03
+19,Leo,Reddy,leo.reddy10@example.com,2175550010,web,2025-04-14
+20,Zoe,Garcia,zoe.garcia11@example.com,217-555-0011,mobile,2024-06-10
+21,Zoe,Garcia,zoe.garcia11@example.com,217-555-0011,store,2025-06-25
+22,Sara,Nguyen,  sara.nguyen12@example.com ,2175550012,web,2025-07-20
+23,Sara,Lee,sara.lee13@example.com,2175550013,store,2025-03-09
+24,Sara,Lee,  sara.lee13@example.com ,217-555-0013,web,2024-09-25
+25,Sara,Patel,  sara.patel14@example.com ,(217) 555-0014,web,2024-11-11
+26,Sara,Patel,Sara.patel14@example.com,2175550014,mobile,2024-08-03
+27,Priya,Patel,priya.patel15@example.com,+1 217 555 0015,store,2024-09-11
+28,Noah,Patel,  NOAH.PATEL16@EXAMPLE.COM ,217-555-0016,mobile,2025-06-05
+29,Noah,Nguyen,  noah.nguyen17@example.com ,(217) 555-0017,mobile,2025-03-17
+30,Zoe,Nguyen,Zoe.nguyen18@example.com,(217) 555-0018,mobile,2025-01-23
+31,Zoe,Nguyen,zoe.nguyen18@example.com,217-555-0018,mobile,2025-07-15
+32,Zoe,Nguyen,zoe.nguyen18@example.com,(217) 555-0018,mobile,2025-08-16
+33,Zoe,Smith,ZOE.SMITH19@EXAMPLE.COM,2175550019,mobile,2025-02-28
+34,Mia,Lee,mia.lee20@example.com,2175550020,mobile,2024-05-16
+35,Noah,Nguyen,  Noah.nguyen21@example.com ,(217) 555-0021,mobile,2024-06-05
+36,Noah,Nguyen,  noah.nguyen21@example.com ,+1 217 555 0021,mobile,2025-07-09
+37,Ethan,Brown,ethan.brown22@example.com,2175550022,mobile,2025-07-31
+38,Liam,Brown,  liam.brown23@example.com ,217-555-0023,mobile,2024-12-01
+39,Ava,Patel,AVA.PATEL24@EXAMPLE.COM,2175550024,web,2024-09-10
+40,Ava,Patel,  AVA.PATEL24@EXAMPLE.COM ,(217) 555-0024,mobile,2024-04-27
+41,Leo,Patel,leo.patel25@example.com,+1 217 555 0025,mobile,2024-07-22
+42,Leo,Patel,Leo.patel25@example.com,2175550025,store,2024-11-04
+43,Ethan,Kim,ETHAN.KIM26@EXAMPLE.COM,+1 217 555 0026,mobile,2025-04-15
+44,Ethan,Kim,ethan.kim26@example.com,217-555-0026,store,2025-07-05
+45,Sara,Patel,Sara.patel27@example.com,(217) 555-0027,store,2025-05-02
+46,Liam,Smith,Liam.smith28@example.com,(217) 555-0028,web,2024-08-09
+47,Liam,Smith,  liam.smith28@example.com ,217-555-0028,web,2024-07-17
+48,Arjun,Kim,arjun.kim29@example.com,+1 217 555 0029,mobile,2024-07-07
+49,Zoe,Lee,zoe.lee30@example.com,2175550030,store,2024-02-24
+50,Sara,Brown,sara.brown31@example.com,+1 217 555 0031,mobile,2025-03-15
+51,Arjun,Lee,  ARJUN.LEE32@EXAMPLE.COM ,+1 217 555 0032,web,2024-08-27
+52,Arjun,Lee,arjun.lee32@example.com,(217) 555-0032,mobile,2024-04-27
+53,Leo,Patel,leo.patel33@example.com,(217) 555-0033,mobile,2025-06-15
+54,Leo,Patel,leo.patel33@example.com,(217) 555-0033,store,2025-03-22
+55,Arjun,Brown,ARJUN.BROWN34@EXAMPLE.COM,+1 217 555 0034,web,2024-07-27
+56,Arjun,Kim,arjun.kim35@example.com,217-555-0035,mobile,2025-05-09
+57,Sara,Lee,Sara.lee36@example.com,217-555-0036,web,2024-09-01
+58,Sara,Lee,  sara.lee36@example.com ,+1 217 555 0036,web,2024-11-21
+59,Liam,Reddy,liam.reddy37@example.com,+1 217 555 0037,store,2024-02-06
+60,Liam,Reddy,  liam.reddy37@example.com ,217-555-0037,web,2024-04-02
+61,Liam,Reddy,  liam.reddy37@example.com ,2175550037,mobile,2024-06-19
+62,Mia,Garcia,mia.garcia38@example.com,(217) 555-0038,mobile,2025-08-20
+63,Arjun,Nguyen,Arjun.nguyen39@example.com,217-555-0039,store,2025-03-10
+64,Ava,Brown,Ava.brown40@example.com,2175550040,store,2025-05-23
+65,Ava,Brown,ava.brown40@example.com,(217) 555-0040,store,2024-12-26
+66,Leo,Reddy,LEO.REDDY41@EXAMPLE.COM,(217) 555-0041,web,2024-05-15
+67,Arjun,Reddy,arjun.reddy42@example.com,217-555-0042,web,2024-08-27
+68,Arjun,Reddy,arjun.reddy42@example.com,217-555-0042,store,2024-08-14
+69,Priya,Kim,PRIYA.KIM43@EXAMPLE.COM,2175550043,web,2024-08-28
+70,Noah,Kim,NOAH.KIM44@EXAMPLE.COM,2175550044,web,2024-12-07
+71,Noah,Kim,NOAH.KIM44@EXAMPLE.COM,2175550044,store,2024-07-31
+72,Noah,Kim,noah.kim44@example.com,(217) 555-0044,mobile,2024-05-31
+73,Zoe,Garcia,zoe.garcia45@example.com,2175550045,store,2024-01-27
+74,Ava,Garcia,ava.garcia46@example.com,+1 217 555 0046,mobile,2025-01-05
+75,Ava,Garcia,  ava.garcia46@example.com ,(217) 555-0046,store,2024-02-14
+76,Ava,Garcia,ava.garcia46@example.com,217-555-0046,mobile,2024-02-01
+77,Arjun,Brown,arjun.brown47@example.com,+1 217 555 0047,web,2024-03-23
+78,Arjun,Brown,  ARJUN.BROWN47@EXAMPLE.COM ,217-555-0047,mobile,2025-06-27
+79,Arjun,Brown,Arjun.brown47@example.com,2175550047,store,2025-07-18
+80,Ethan,Brown,ethan.brown48@example.com,(217) 555-0048,store,2025-04-30
+81,Ethan,Brown,  Ethan.brown48@example.com ,2175550048,store,2025-01-16
+82,Ethan,Brown,ethan.brown49@example.com,217-555-0049,web,2025-08-14
+83,Liam,Garcia,Liam.garcia50@example.com,+1 217 555 0050,mobile,2024-06-10
+84,Zoe,Smith,ZOE.SMITH51@EXAMPLE.COM,+1 217 555 0051,store,2024-11-11
+85,Noah,Brown,  NOAH.BROWN52@EXAMPLE.COM ,(217) 555-0052,mobile,2024-10-23
+86,Ethan,Brown,ethan.brown53@example.com,2175550053,mobile,2024-01-22
+87,Ethan,Brown,  ethan.brown53@example.com ,+1 217 555 0053,store,2025-01-05
+88,Ethan,Brown,  Ethan.brown53@example.com ,+1 217 555 0053,store,2024-03-21
+89,Noah,Garcia,noah.garcia54@example.com,(217) 555-0054,store,2025-05-20
+90,Liam,Kim,liam.kim55@example.com,2175550055,mobile,2025-08-08
+91,Liam,Kim,liam.kim55@example.com,+1 217 555 0055,store,2024-06-03
+92,Liam,Kim,liam.kim55@example.com,217-555-0055,store,2024-03-27
+93,Leo,Garcia,Leo.garcia56@example.com,217-555-0056,store,2025-02-05
+94,Leo,Garcia,  Leo.garcia56@example.com ,+1 217 555 0056,store,2024-12-02
+95,Mia,Smith,mia.smith57@example.com,(217) 555-0057,web,2024-06-07
+96,Mia,Smith,  Mia.smith57@example.com ,2175550057,store,2024-12-10
+97,Priya,Reddy,priya.reddy58@example.com,+1 217 555 0058,web,2025-06-30
+98,Priya,Brown,priya.brown59@example.com,(217) 555-0059,mobile,2024-02-23
+99,Ethan,Smith,ETHAN.SMITH60@EXAMPLE.COM,217-555-0060,web,2024-05-20
+100,Zoe,Lee,zoe.lee61@example.com,2175550061,web,2024-01-20
+101,Liam,Kim,  liam.kim62@example.com ,(217) 555-0062,store,2024-05-27
+102,Liam,Kim,LIAM.KIM62@EXAMPLE.COM,+1 217 555 0062,web,2024-03-28
+103,Liam,Kim,liam.kim62@example.com,2175550062,mobile,2025-04-26
+104,Priya,Reddy,priya.reddy63@example.com,2175550063,mobile,2024-09-03
+105,Priya,Reddy,priya.reddy63@example.com,217-555-0063,web,2024-02-15
+106,Ethan,Nguyen,ethan.nguyen64@example.com,217-555-0064,web,2024-07-14
+107,Ethan,Nguyen,  Ethan.nguyen64@example.com ,217-555-0064,mobile,2024-05-07
+108,Ethan,Nguyen,ethan.nguyen64@example.com,+1 217 555 0064,store,2025-03-26
+109,Zoe,Lee,ZOE.LEE65@EXAMPLE.COM,217-555-0065,store,2025-03-21
+110,Zoe,Lee,Zoe.lee65@example.com,2175550065,store,2025-02-19
+111,Zoe,Lee,Zoe.lee65@example.com,2175550065,web,2025-03-24
+112,Mia,Kim,mia.kim66@example.com,+1 217 555 0066,store,2024-02-03
+113,Mia,Reddy,MIA.REDDY67@EXAMPLE.COM,2175550067,store,2024-07-09
+114,Mia,Reddy,mia.reddy67@example.com,2175550067,mobile,2024-09-23
+115,Mia,Reddy,  mia.reddy67@example.com ,217-555-0067,store,2025-05-17
+116,Ethan,Kim,ethan.kim68@example.com,(217) 555-0068,mobile,2025-06-04
+117,Ethan,Kim,Ethan.kim68@example.com,(217) 555-0068,mobile,2024-01-27
+118,Liam,Lee,liam.lee69@example.com,(217) 555-0069,web,2025-03-19
+119,Liam,Lee,liam.lee69@example.com,2175550069,store,2024-06-05
+120,Liam,Lee,LIAM.LEE69@EXAMPLE.COM,(217) 555-0069,mobile,2025-06-15
+121,Mia,Garcia,mia.garcia70@example.com,2175550070,web,2024-02-16
+122,Mia,Garcia,mia.garcia70@example.com,217-555-0070,store,2024-08-03
+123,Ethan,Reddy,  ethan.reddy71@example.com ,217-555-0071,store,2025-07-29
+124,Ethan,Reddy,  ETHAN.REDDY71@EXAMPLE.COM ,+1 217 555 0071,web,2024-05-24
+125,Leo,Brown,leo.brown72@example.com,217-555-0072,store,2024-11-16
+126,Sara,Lee,  SARA.LEE73@EXAMPLE.COM ,+1 217 555 0073,store,2025-04-26
+127,Ethan,Nguyen,ETHAN.NGUYEN74@EXAMPLE.COM,2175550074,web,2024-04-09
+128,Mia,Brown,mia.brown75@example.com,+1 217 555 0075,store,2025-07-30
+129,Mia,Brown,Mia.brown75@example.com,2175550075,mobile,2025-08-20
+130,Ava,Kim,  AVA.KIM76@EXAMPLE.COM ,(217) 555-0076,mobile,2025-05-28
+131,Zoe,Nguyen,zoe.nguyen77@example.com,+1 217 555 0077,mobile,2025-07-27
+132,Ethan,Lee,  ethan.lee78@example.com ,217-555-0078,store,2024-10-05
+133,Ethan,Lee,Ethan.lee78@example.com,(217) 555-0078,web,2025-06-27
+134,Mia,Brown,  mia.brown79@example.com ,217-555-0079,mobile,2024-10-19
+135,Mia,Brown,mia.brown79@example.com,2175550079,store,2025-08-10
+136,Mia,Brown,Mia.brown79@example.com,2175550079,web,2025-03-03
+137,Ava,Patel,  ava.patel80@example.com ,217-555-0080,mobile,2025-04-10
+138,Ava,Patel,ava.patel80@example.com,+1 217 555 0080,web,2025-05-31
+139,Mia,Lee,  mia.lee81@example.com ,+1 217 555 0081,web,2025-04-02
+140,Mia,Lee,mia.lee81@example.com,217-555-0081,store,2025-08-09
+141,Zoe,Reddy,ZOE.REDDY82@EXAMPLE.COM,+1 217 555 0082,store,2025-05-29
+142,Arjun,Smith,arjun.smith83@example.com,2175550083,store,2025-04-02
+143,Leo,Patel,leo.patel84@example.com,2175550084,mobile,2024-09-17
+144,Leo,Patel,leo.patel84@example.com,2175550084,web,2025-03-09
+145,Leo,Patel,LEO.PATEL84@EXAMPLE.COM,2175550084,mobile,2024-02-02
+146,Priya,Kim,priya.kim85@example.com,(217) 555-0085,store,2025-02-06
+147,Liam,Patel,liam.patel86@example.com,2175550086,web,2024-02-15
+148,Liam,Patel,  liam.patel86@example.com ,(217) 555-0086,web,2024-05-23
+149,Liam,Patel,  liam.patel86@example.com ,217-555-0086,store,2024-11-24
+150,Priya,Lee,priya.lee87@example.com,+1 217 555 0087,store,2024-11-22
+151,Noah,Reddy,noah.reddy88@example.com,2175550088,store,2024-07-14
+152,Zoe,Brown,  zoe.brown89@example.com ,(217) 555-0089,mobile,2024-08-01
+153,Arjun,Reddy,Arjun.reddy90@example.com,2175550090,store,2025-04-25
+154,Arjun,Reddy,arjun.reddy90@example.com,(217) 555-0090,mobile,2024-11-16
+155,Arjun,Lee,arjun.lee91@example.com,(217) 555-0091,store,2025-07-13
+156,Arjun,Patel,arjun.patel92@example.com,2175550092,store,2024-10-08
+157,Priya,Lee,priya.lee93@example.com,2175550093,mobile,2025-03-20
+158,Ava,Smith,ava.smith94@example.com,+1 217 555 0094,web,2024-11-02
+159,Liam,Reddy,  LIAM.REDDY95@EXAMPLE.COM ,+1 217 555 0095,mobile,2024-01-31
+160,Zoe,Garcia,zoe.garcia96@example.com,+1 217 555 0096,mobile,2025-01-04
+161,Zoe,Garcia,ZOE.GARCIA96@EXAMPLE.COM,217-555-0096,mobile,2024-04-14
+162,Zoe,Garcia,ZOE.GARCIA96@EXAMPLE.COM,+1 217 555 0096,web,2024-01-27
+163,Priya,Patel,priya.patel97@example.com,(217) 555-0097,store,2025-06-17
+164,Priya,Patel,  PRIYA.PATEL97@EXAMPLE.COM ,217-555-0097,mobile,2025-05-19
+165,Ethan,Nguyen,ethan.nguyen98@example.com,(217) 555-0098,mobile,2024-04-19
+166,Ethan,Lee,ethan.lee99@example.com,(217) 555-0099,mobile,2024-11-24
+167,Ethan,Lee,ethan.lee99@example.com,+1 217 555 0099,mobile,2024-06-30
+168,Noah,Lee,  noah.lee100@example.com ,+1 217 555 0100,store,2025-05-26
+169,Noah,Lee,  NOAH.LEE100@EXAMPLE.COM ,(217) 555-0100,store,2025-03-09
+170,Priya,Kim,PRIYA.KIM101@EXAMPLE.COM,(217) 555-0101,mobile,2025-01-18
+171,Arjun,Kim,arjun.kim102@example.com,2175550102,mobile,2024-02-15
+172,Arjun,Kim,  arjun.kim102@example.com ,217-555-0102,store,2024-04-21
+173,Arjun,Kim,  arjun.kim102@example.com ,(217) 555-0102,store,2024-06-27
+174,Mia,Reddy,MIA.REDDY103@EXAMPLE.COM,+1 217 555 0103,store,2024-11-16
+175,Mia,Reddy,mia.reddy103@example.com,2175550103,mobile,2024-12-26
+176,Zoe,Garcia,  ZOE.GARCIA104@EXAMPLE.COM ,217-555-0104,web,2025-05-11
+177,Priya,Lee,Priya.lee105@example.com,(217) 555-0105,mobile,2024-02-03
+178,Priya,Lee,  Priya.lee105@example.com ,+1 217 555 0105,store,2025-05-22
+179,Priya,Lee,  priya.lee105@example.com ,2175550105,mobile,2025-07-10
+180,Arjun,Kim,Arjun.kim106@example.com,+1 217 555 0106,web,2024-05-22
+181,Zoe,Nguyen,Zoe.nguyen107@example.com,2175550107,mobile,2024-05-09
+182,Arjun,Garcia,arjun.garcia108@example.com,2175550108,store,2024-04-05
+183,Arjun,Garcia,arjun.garcia108@example.com,217-555-0108,mobile,2025-05-14
+184,Ethan,Garcia,ethan.garcia109@example.com,2175550109,web,2024-04-11
+185,Ethan,Garcia,ethan.garcia109@example.com,2175550109,web,2024-06-10
+186,Ethan,Garcia,  ethan.garcia109@example.com ,+1 217 555 0109,web,2024-05-15
+187,Noah,Brown,  noah.brown110@example.com ,+1 217 555 0110,web,2024-05-15
+188,Priya,Kim,  PRIYA.KIM111@EXAMPLE.COM ,+1 217 555 0111,web,2024-05-26
+189,Arjun,Reddy,  arjun.reddy112@example.com ,+1 217 555 0112,store,2025-03-29
+190,Mia,Smith,  mia.smith113@example.com ,217-555-0113,store,2024-01-28
+191,Mia,Smith,mia.smith113@example.com,217-555-0113,web,2025-06-14
+192,Ava,Kim,  AVA.KIM114@EXAMPLE.COM ,+1 217 555 0114,store,2024-10-20
+193,Zoe,Garcia,  ZOE.GARCIA115@EXAMPLE.COM ,+1 217 555 0115,mobile,2025-06-19
+194,Noah,Patel,  noah.patel116@example.com ,2175550116,mobile,2025-01-07
+195,Ava,Brown,ava.brown117@example.com,217-555-0117,mobile,2024-03-29
+196,Liam,Smith,liam.smith118@example.com,(217) 555-0118,store,2024-10-13
+197,Priya,Reddy,  priya.reddy119@example.com ,2175550119,store,2024-05-16
+198,Priya,Reddy,priya.reddy119@example.com,2175550119,mobile,2024-05-13
+199,Priya,Reddy,PRIYA.REDDY119@EXAMPLE.COM,+1 217 555 0119,store,2024-11-30
+200,Arjun,Nguyen,  ARJUN.NGUYEN120@EXAMPLE.COM ,217-555-0120,store,2024-02-11
+201,Arjun,Nguyen,  Arjun.nguyen120@example.com ,(217) 555-0120,mobile,2025-02-09
+202,Arjun,Nguyen,arjun.nguyen120@example.com,217-555-0120,web,2024-02-01
+203,Ava,Kim,ava.kim121@example.com,(217) 555-0121,web,2024-12-05
+204,Mia,Brown,mia.brown122@example.com,+1 217 555 0122,web,2024-12-28
+205,Mia,Brown,  MIA.BROWN122@EXAMPLE.COM ,(217) 555-0122,web,2024-09-08
+206,Mia,Brown,mia.brown122@example.com,+1 217 555 0122,web,2024-03-30
+207,Arjun,Lee,arjun.lee123@example.com,+1 217 555 0123,mobile,2024-07-03
+208,Arjun,Lee,  Arjun.lee123@example.com ,217-555-0123,web,2025-04-28
+209,Mia,Smith,  mia.smith124@example.com ,2175550124,web,2024-02-27
+210,Mia,Smith,MIA.SMITH124@EXAMPLE.COM,2175550124,mobile,2024-07-25
+211,Mia,Smith,mia.smith124@example.com,(217) 555-0124,mobile,2024-03-01
+212,Mia,Garcia,mia.garcia125@example.com,2175550125,mobile,2025-02-09
+213,Mia,Brown,  mia.brown126@example.com ,217-555-0126,web,2024-06-28
+214,Mia,Brown,  Mia.brown126@example.com ,(217) 555-0126,store,2024-01-02
+215,Mia,Brown,mia.brown126@example.com,+1 217 555 0126,store,2024-02-03
+216,Mia,Reddy,  Mia.reddy127@example.com ,2175550127,store,2024-12-09
+217,Ava,Nguyen,  Ava.nguyen128@example.com ,(217) 555-0128,mobile,2024-06-13
+218,Ava,Brown,ava.brown129@example.com,2175550129,web,2024-12-05
+219,Leo,Lee,  LEO.LEE130@EXAMPLE.COM ,+1 217 555 0130,web,2024-04-09
+220,Noah,Garcia,noah.garcia131@example.com,2175550131,mobile,2025-02-11
+221,Noah,Garcia,noah.garcia131@example.com,217-555-0131,web,2025-07-11
+222,Priya,Smith,priya.smith132@example.com,+1 217 555 0132,store,2025-05-01
+223,Mia,Garcia,  mia.garcia133@example.com ,+1 217 555 0133,web,2025-03-21
+224,Sara,Reddy,sara.reddy134@example.com,2175550134,store,2025-06-19
+225,Sara,Reddy,  sara.reddy134@example.com ,(217) 555-0134,web,2025-08-03
+226,Zoe,Reddy,Zoe.reddy135@example.com,+1 217 555 0135,web,2024-06-25
+227,Zoe,Reddy,ZOE.REDDY135@EXAMPLE.COM,+1 217 555 0135,web,2025-02-09
+228,Zoe,Reddy,zoe.reddy135@example.com,(217) 555-0135,web,2025-05-01
+229,Ethan,Nguyen,  ethan.nguyen136@example.com ,+1 217 555 0136,web,2025-02-20
+230,Ethan,Nguyen,ethan.nguyen136@example.com,217-555-0136,web,2025-06-11
+231,Ethan,Nguyen,  ethan.nguyen136@example.com ,+1 217 555 0136,web,2025-06-20
+232,Mia,Smith,  mia.smith137@example.com ,+1 217 555 0137,web,2025-01-04
+233,Leo,Lee,leo.lee138@example.com,217-555-0138,mobile,2024-06-16
+234,Sara,Patel,  sara.patel139@example.com ,(217) 555-0139,store,2024-01-09
+235,Arjun,Nguyen,  arjun.nguyen140@example.com ,217-555-0140,store,2024-10-16
+236,Arjun,Nguyen,  ARJUN.NGUYEN140@EXAMPLE.COM ,217-555-0140,store,2024-11-28
+237,Arjun,Nguyen,  arjun.nguyen140@example.com ,217-555-0140,web,2024-06-02
+238,Ethan,Nguyen,ethan.nguyen141@example.com,(217) 555-0141,mobile,2024-04-09
+239,Leo,Kim,leo.kim142@example.com,+1 217 555 0142,store,2024-11-01
+240,Leo,Kim,leo.kim142@example.com,(217) 555-0142,web,2024-07-24
+241,Leo,Kim,Leo.kim142@example.com,+1 217 555 0142,web,2024-11-19
+242,Arjun,Nguyen,  arjun.nguyen143@example.com ,(217) 555-0143,mobile,2024-03-31
+243,Ava,Patel,ava.patel144@example.com,217-555-0144,store,2024-07-14
+244,Ava,Smith,ava.smith145@example.com,(217) 555-0145,web,2025-01-27
+245,Priya,Nguyen,  priya.nguyen146@example.com ,2175550146,store,2024-01-21
+246,Liam,Brown,Liam.brown147@example.com,(217) 555-0147,web,2024-01-10
+247,Liam,Brown,Liam.brown147@example.com,217-555-0147,store,2024-05-20
+248,Liam,Brown,liam.brown147@example.com,2175550147,mobile,2024-04-26
+249,Zoe,Smith,  zoe.smith148@example.com ,2175550148,store,2025-05-23
+250,Zoe,Smith,zoe.smith148@example.com,+1 217 555 0148,mobile,2024-08-28
+251,Ava,Kim,ava.kim149@example.com,(217) 555-0149,web,2025-06-07
+252,Arjun,Nguyen,  arjun.nguyen150@example.com ,(217) 555-0150,web,2024-10-24
+253,Arjun,Nguyen,Arjun.nguyen150@example.com,2175550150,web,2024-02-16
+254,Mia,Garcia,MIA.GARCIA151@EXAMPLE.COM,2175550151,mobile,2024-12-16
+255,Mia,Garcia,MIA.GARCIA151@EXAMPLE.COM,217-555-0151,mobile,2025-05-04
+256,Zoe,Reddy,zoe.reddy152@example.com,(217) 555-0152,store,2024-12-12
+257,Priya,Brown,PRIYA.BROWN153@EXAMPLE.COM,2175550153,mobile,2025-04-02
+258,Noah,Lee,noah.lee154@example.com,+1 217 555 0154,store,2025-01-07
+259,Noah,Lee,  noah.lee154@example.com ,(217) 555-0154,web,2024-12-15
+260,Noah,Lee,  noah.lee155@example.com ,+1 217 555 0155,web,2024-05-06
+261,Zoe,Brown,zoe.brown156@example.com,(217) 555-0156,web,2025-02-26
+262,Zoe,Brown,zoe.brown156@example.com,217-555-0156,store,2025-07-14
+263,Sara,Nguyen,sara.nguyen157@example.com,2175550157,mobile,2024-05-28
+264,Sara,Nguyen,  SARA.NGUYEN157@EXAMPLE.COM ,(217) 555-0157,mobile,2024-09-13
+265,Sara,Nguyen,SARA.NGUYEN157@EXAMPLE.COM,(217) 555-0157,store,2024-02-03
+266,Sara,Patel,  sara.patel158@example.com ,+1 217 555 0158,web,2025-01-11
+267,Leo,Patel,leo.patel159@example.com,217-555-0159,web,2024-11-21
+268,Leo,Patel,leo.patel159@example.com,2175550159,store,2024-06-12
+269,Ava,Reddy,ava.reddy160@example.com,+1 217 555 0160,mobile,2025-07-07
+270,Ava,Reddy,  ava.reddy160@example.com ,217-555-0160,store,2025-06-04
+271,Ava,Reddy,  ava.reddy160@example.com ,(217) 555-0160,mobile,2025-06-10
+272,Sara,Patel,  Sara.patel161@example.com ,+1 217 555 0161,web,2024-07-29
+273,Ava,Kim,  ava.kim162@example.com ,2175550162,mobile,2024-11-04
+274,Priya,Brown,priya.brown163@example.com,(217) 555-0163,store,2025-02-04
+275,Leo,Nguyen,Leo.nguyen164@example.com,2175550164,store,2025-04-17
+276,Ethan,Brown,  ETHAN.BROWN165@EXAMPLE.COM ,+1 217 555 0165,mobile,2025-01-03
+277,Arjun,Kim,  arjun.kim166@example.com ,217-555-0166,web,2025-07-05
+278,Priya,Smith,priya.smith167@example.com,+1 217 555 0167,store,2024-06-01
+279,Leo,Garcia,  leo.garcia168@example.com ,+1 217 555 0168,web,2024-03-05
+280,Leo,Garcia,LEO.GARCIA168@EXAMPLE.COM,217-555-0168,mobile,2025-04-25
+281,Leo,Garcia,leo.garcia168@example.com,2175550168,store,2024-11-27
+282,Zoe,Garcia,zoe.garcia169@example.com,2175550169,store,2024-09-14
+283,Zoe,Garcia,Zoe.garcia169@example.com,217-555-0169,mobile,2025-05-13
+284,Zoe,Garcia,zoe.garcia169@example.com,2175550169,store,2024-05-22
+285,Noah,Patel,  noah.patel170@example.com ,2175550170,store,2024-05-30
+286,Mia,Nguyen,mia.nguyen171@example.com,2175550171,store,2024-10-17
+287,Arjun,Garcia,arjun.garcia172@example.com,(217) 555-0172,store,2025-06-07
+288,Sara,Brown,  sara.brown173@example.com ,2175550173,store,2025-05-30
+289,Leo,Patel,leo.patel174@example.com,2175550174,store,2025-06-26
+290,Leo,Patel,leo.patel174@example.com,+1 217 555 0174,mobile,2024-12-24
+291,Leo,Patel,leo.patel174@example.com,2175550174,mobile,2024-05-17
+292,Leo,Kim,LEO.KIM175@EXAMPLE.COM,+1 217 555 0175,mobile,2024-04-19
+293,Leo,Reddy,leo.reddy176@example.com,(217) 555-0176,mobile,2025-07-19
+294,Leo,Reddy,leo.reddy176@example.com,217-555-0176,store,2025-07-22
+295,Liam,Garcia,liam.garcia177@example.com,2175550177,mobile,2024-08-15
+296,Liam,Garcia,Liam.garcia177@example.com,+1 217 555 0177,store,2025-06-17
+297,Liam,Garcia,  Liam.garcia177@example.com ,(217) 555-0177,store,2025-05-21
+298,Leo,Smith,  leo.smith178@example.com ,2175550178,store,2024-10-18
+299,Leo,Lee,leo.lee179@example.com,+1 217 555 0179,store,2025-04-16
+300,Arjun,Kim,Arjun.kim180@example.com,(217) 555-0180,mobile,2025-02-26
+301,Arjun,Kim,arjun.kim180@example.com,2175550180,store,2024-09-26
+302,Leo,Nguyen,leo.nguyen181@example.com,(217) 555-0181,mobile,2024-07-23
+303,Liam,Kim,liam.kim182@example.com,2175550182,mobile,2025-01-15
+304,Liam,Kim,liam.kim182@example.com,217-555-0182,mobile,2024-07-06
+305,Liam,Kim,liam.kim182@example.com,217-555-0182,mobile,2024-08-15
+306,Sara,Reddy,sara.reddy183@example.com,+1 217 555 0183,web,2025-06-14
+307,Sara,Reddy,sara.reddy183@example.com,2175550183,store,2024-08-03
+308,Sara,Reddy,SARA.REDDY183@EXAMPLE.COM,217-555-0183,web,2025-07-15
+309,Arjun,Garcia,arjun.garcia184@example.com,2175550184,store,2024-10-03
+310,Priya,Lee,priya.lee185@example.com,217-555-0185,mobile,2024-11-03
+311,Ethan,Reddy,ETHAN.REDDY186@EXAMPLE.COM,(217) 555-0186,store,2025-08-12
+312,Ethan,Reddy,ethan.reddy186@example.com,217-555-0186,mobile,2024-11-28
+313,Zoe,Brown,zoe.brown187@example.com,217-555-0187,store,2025-06-17
+314,Zoe,Brown,zoe.brown187@example.com,(217) 555-0187,web,2024-05-08
+315,Sara,Patel,sara.patel188@example.com,2175550188,web,2024-09-25
+316,Arjun,Garcia,  arjun.garcia189@example.com ,2175550189,store,2024-12-31
+317,Sara,Smith,sara.smith190@example.com,217-555-0190,web,2024-11-06
+318,Ava,Garcia,Ava.garcia191@example.com,+1 217 555 0191,mobile,2024-11-02
+319,Ava,Garcia,  AVA.GARCIA191@EXAMPLE.COM ,(217) 555-0191,web,2025-07-15
+320,Zoe,Brown,  zoe.brown192@example.com ,217-555-0192,web,2025-04-11
+321,Priya,Nguyen,priya.nguyen193@example.com,2175550193,mobile,2024-03-23
+322,Priya,Nguyen,priya.nguyen193@example.com,2175550193,mobile,2025-02-05
+323,Priya,Nguyen,  PRIYA.NGUYEN193@EXAMPLE.COM ,217-555-0193,mobile,2024-01-13
+324,Noah,Patel,noah.patel194@example.com,(217) 555-0194,mobile,2025-02-02
+325,Priya,Reddy,  PRIYA.REDDY195@EXAMPLE.COM ,(217) 555-0195,web,2024-02-13
+326,Priya,Reddy,PRIYA.REDDY196@EXAMPLE.COM,217-555-0196,store,2025-05-16
+327,Arjun,Nguyen,arjun.nguyen197@example.com,+1 217 555 0197,store,2024-07-08
+328,Arjun,Nguyen,arjun.nguyen197@example.com,217-555-0197,store,2024-09-01
+329,Ava,Garcia,  ava.garcia198@example.com ,+1 217 555 0198,web,2024-04-11
+330,Leo,Brown,leo.brown199@example.com,217-555-0199,web,2025-01-10
+331,Leo,Brown,  Leo.brown199@example.com ,(217) 555-0199,store,2025-05-18
+332,Leo,Brown,leo.brown199@example.com,+1 217 555 0199,store,2024-03-03
